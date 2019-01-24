@@ -1,2 +1,4 @@
-# python_stock
-Deep Learning Stock Prediction - Python
+# Python_Deep Learning
+
+## Stock Prediction
+
